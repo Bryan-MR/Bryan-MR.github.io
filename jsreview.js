@@ -3,7 +3,7 @@ let myName = "Bryan";
 
 console.log(`This page was created in the STEM PREP ${course} by ${myName}`);
 
-aler(`This page was created in the STEM PREP ${course} by ${myName}`);
+alert(`This page was created in the STEM PREP ${course} by ${myName}`);
 
 function output()
 {
